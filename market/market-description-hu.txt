@@ -1,0 +1,26 @@
+Tartsd a zsebedben digitalcoinjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A digitalcoin Tárca az első digitalcoin app és kétségkívül a legbiztonságosabb is!
+
+ELŐNYÖK:
+
+• Nincs regisztráció és nem szükséges semmiféle háttéralkalmazás futtatása (web, vagy cloud)! Decentralizált és közvetlen (P2P).
+• A BitRevSharesjaid mennyiségét REV és mREV formában is láthatod.
+• Átváltás a saját valutádra, oda-vissza.
+• BitRevShares küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
+• Címtár a rendszeresen használt BitRevShares címek számára.
+• Offline állapotban is fizethetsz - Bluetooth segítségével.
+• Rendszerüzenet digitalcoin érkezésekor.
+• Widget a digitalcoin egyenlegről.
+>>>>>>> upstream/prod
+
+Bővebben a BitRevShares-ról:
+http://www.qrk.cc/
+
+Ha hozzájárulnál a BitRevShares Wallet projekthez:
+https://github.com/HashEngineering/BitRevShares-wallet
+
+
+
+
+Licensz: GPLv3
+Csak saját felelősségre használható!
+http://www.gnu.org/licenses/gpl-3.0.en.html

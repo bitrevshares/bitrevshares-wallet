@@ -1,0 +1,20 @@
+Dit is een standalone BitRevShares Wallet voor uw Android apparaat. U kan direct BitRevSharess versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+
+FUNCTIES:
+
+• Weergeven van het wallet saldo in BitRevShares en verschillende andere valuta.
+• Verzenden en ontvangen van BitRevShares via NFC, QR-codes of BitRevShares URLs.
+• Adresboek voor veelgebruikte BitRevShares adressen.
+• Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
+• Systeem melding over BitRevShares connectiviteit en ontvangen BitRevSharess.
+• Widget voor BitRevShares saldo.
+
+Voor meer informatie over BitRevShares kunt u terecht op
+http://www.qrk.cc/
+
+Als u een bijdrage wil leveren aan BitRevShares Wallet, het project is te vinden op
+https://github.com/HashEngineering/BitRevShares-wallet
+
+Licentie: GPLv3
+Gebruik op eigen risico!
+http://www.gnu.org/licenses/gpl-3.0.en.html

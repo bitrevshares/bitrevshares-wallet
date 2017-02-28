@@ -1,0 +1,21 @@
+Dengan aplikasi ini Anda selalu mempunyai BitRevShares dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). BitRevShares Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+
+FITUR:
+
+• Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
+• Tampilkan saldo dompet dalam BitRevShares dan mata uang lainnya.
+• Mengirim dan menerima BitRevShares via NFC, kode-QR atau Tautan BitRevShares.
+• Buku alamat untuk alamat penggunaan BitRevShares secara reguler.
+• Masukkan transaksi saat offline, akan dilaksanakan ketika online.
+• Notifikasi sistem untuk konektivitas BitRevShares dan menerima koin.
+• Widget Apl untuk saldo BitRevShares.
+
+Anda dapat mengetahui lebih mengenai BitRevShares di
+http://www.qrk.cc/
+
+Jika Anda ingin berkontribusi kepada BitRevShares Wallet, proyeknya berada di
+https://github.com/HashEngineering/BitRevShares-wallet
+
+Lisensi: GPLv3
+Gunakan dengan resiko Anda!
+http://www.gnu.org/licenses/gpl-3.0.en.html

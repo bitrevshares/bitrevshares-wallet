@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+   	<string-array name="preferences_precision_labels">
+		<item>REV, 8 Dezimalen</item>
+		<item>REV, 6 Dezimalen</item>
+		<item>REV, 4 Dezimalen</item>
+		<item>REV, 2 Dezimalen</item>
+		<item>mREV, 2 Dezimalen</item>
+	</string-array>
+
+
+</resources>

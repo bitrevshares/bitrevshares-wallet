@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+	<PreferenceCategory android:title="@string/where_to_buy_title" >
+        <Preference
+                android:key="exchange_02"
+                android:summary="https://yobit.net/en/trade/REV/BTC"
+                android:title="yobit.net [BTC]" />
+	</PreferenceCategory>
+
+</PreferenceScreen>

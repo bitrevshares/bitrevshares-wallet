@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>REV, 8 dígitos</item>
+		<item>REV, 6 dígitos</item>
+		<item>REV, 4 dígitos</item>
+		<item>REV, 2 dígitos</item>
+		<item>mREV, 2 dígitos</item>
+	</string-array>
+
+
+</resources>
